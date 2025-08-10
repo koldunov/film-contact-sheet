@@ -1,5 +1,7 @@
 # film-contact-sheet
 
+![](https://github.com/koldunov/film-contact-sheet
+/blob/main/examples/calendar.jpg)
 ![Contact sheet demo](assets/demo.heic)
 
 I regularly get my film rolls scanned at a lab, and they send back a folder of image files. 
