@@ -2,7 +2,6 @@
 
 I regularly get my film rolls scanned at a lab, and they send back a folder of image files. 
 I wrote this small script to turn that folder into a printable contact sheet (PDF) so I can print it and slip it into the envelope where I store the negatives.
-It leaves the originals untouched and focuses on a simple, fast workflow.
 
 
 A tiny CLI utility to build **contact sheets (PDF)** from images in a folder.
