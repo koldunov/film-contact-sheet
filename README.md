@@ -1,6 +1,6 @@
 # film-contact-sheet
 
-![](https://github.com/koldunov/film-contact-sheet/demo.heic)
+![](https://github.com/koldunov/film-contact-sheet/demo.jpg)
 
 I regularly get my film rolls scanned at a lab, and they send back a folder of image files. 
 I wrote this small script to turn that folder into a printable contact sheet (PDF) so I can print it and slip it into the envelope where I store the negatives.
